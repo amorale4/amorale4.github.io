@@ -12,4 +12,4 @@ Currently I am interested in problems involving faithful interpretability, and m
 ### Education
 
 I am a PhD candidate in [Computer Science](https://cs.illinois.edu/) from University of Illinois @ Urbana-Champaign. My advisor is Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). I am graduating this Fall 2020. 
- I received my bachelor’s and masters degree from the University of California, Santa Barbara in Computer Science, under the suppervision of [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/).
+ I received my bachelor’s and masters degree from the University of California, Santa Barbara in Computer Science, under the supervision of [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/).
