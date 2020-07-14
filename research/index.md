@@ -8,7 +8,7 @@ title: Research
 * **CrowdQM: Learning aspect-level user reliability and comment trustworthiness in discussion forums**
 Morales, Alex, Kanika Narang, Hari Sundaram, and Chengxiang Zhai. 
 In Pacific-Asia Conference on Knowledge Discovery and Data Mining, pp. 592-605. Springer, Cham, 2020.
-\[[paper](https://doi.org/10.1007/978-3-030-47426-3_46) \| [bibtex](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-47426-3_46?format=bibtex&flavour=citation)\]
+\[[paper](https://doi.org/10.1007/978-3-030-47426-3_46) \| [code](https://bitbucket.org/amorale4/crowdqm/src/qmdev/) \| [dataset](https://uofi.box.com/s/35qjrdhd7nmouabeeqdvlk57xjwhsn59) \| [bibtex](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-47426-3_46?format=bibtex&flavour=citation)\]
 
 * **Predicting Opioid Overdose Crude Rates with Text-Based Twitter Features (Student Abstract).**
 Gandhi, Nupoor, Alex Morales, Sally Man-Pui Chan, Dolores Albarracin, and ChengXiang Zhai. 
