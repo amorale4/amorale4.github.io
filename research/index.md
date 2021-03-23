@@ -4,6 +4,21 @@ title: Research
 ---
 
 ## Publications
+* **Towards Improving Food Inspection Reporting Procedures: Data Mining to Uncover Bias and Inconsistencies in Written Food Inspection Reports**
+Morales, Alex, George Heintz, Jim Roberts and Chengxiang Zhai.
+(Under Review)
+
+* **Identifying False Human Papillomavirus (HPV) Vaccine Information and Corresponding Risk Perceptions from Twitter Using Advanced Predictive Models**
+Tomaszewski, Tre, Alex Morales, Ismini Lourentzou, Bing Liu, Alan Schwartz, Rachel Caskey and Jessie Chin.
+(Under Review)
+
+* **Social media postings about HIV and HIV testing and PrEP use among MSM in the United States.**
+Chan, Man-Pui Sally, Alex Morales, Maria Zlotorzynski, Patrick Sullivan, Travis Sanchez, ChengXiang Zhai, and Dolores Albarracin.
+To appear in AIDS (2021). 
+
+* **Model-based feature construction and text representation for social media analysis.**
+Morales, Alex. PhD diss., University of Illinois at Urbana-Champaign, 2020.
+\[[paper](http://hdl.handle.net/2142/109405) \| [bibtex](thesis2020.bib) \]
 
 * **CrowdQM: Learning aspect-level user reliability and comment trustworthiness in discussion forums**
 Morales, Alex, Kanika Narang, Hari Sundaram, and Chengxiang Zhai. 
