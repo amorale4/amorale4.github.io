@@ -16,6 +16,11 @@ Tomaszewski, Tre, Alex Morales, Ismini Lourentzou, Bing Liu, Alan Schwartz, Rach
 Chan, Man-Pui Sally, Alex Morales, Maria Zlotorzynski, Patrick Sullivan, Travis Sanchez, ChengXiang Zhai, and Dolores Albarracin.
 To appear in AIDS (2021). 
 
+* **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**
+Dharawat, Arkin, Ismini Lourentzou, Alex Morales, ChengXiang Zhai
+NLP-COVID19 Workshop @ ACL 2020
+\[[paper](https://arxiv.org/abs/2010.08743) \| [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation) \| [code](https://github.com/TIMAN-group/covid19_misinformation) \| [bibtex](covid2020.bib) \]
+
 * **Model-based feature construction and text representation for social media analysis.**
 Morales, Alex. PhD diss., University of Illinois at Urbana-Champaign, 2020.
 \[[paper](http://hdl.handle.net/2142/109405) \| [bibtex](thesis2020.bib) \]
@@ -26,12 +31,12 @@ In Pacific-Asia Conference on Knowledge Discovery and Data Mining, pp. 592-605. 
 \[[paper](https://doi.org/10.1007/978-3-030-47426-3_46) \| [code](https://bitbucket.org/amorale4/crowdqm/src/qmdev/) \| [dataset](https://uofi.box.com/s/35qjrdhd7nmouabeeqdvlk57xjwhsn59) \| [bibtex](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-47426-3_46?format=bibtex&flavour=citation)\]
 
 * **Predicting Opioid Overdose Crude Rates with Text-Based Twitter Features (Student Abstract).**
-Gandhi, Nupoor, Alex Morales, Sally Man-Pui Chan, Dolores Albarracin, and ChengXiang Zhai. 
+Gandhi, Nupoor, Alex Morales, Sally Man-Pui Chan, Dolores Albarracin, and ChengXiang Zhai.
 In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 10, pp. 13787-13788. 2020.
 \[[paper](https://doi.org/10.1609/aaai.v34i10.7165) \| [bibtex](aaai2020.bib)\]
 
 * **Multi-Attribute Topic Feature Construction for Social Media-based Prediction.**
-Morales, Alex, Nupoor Gandhi, Man-pui Sally Chan, Sophie Lohmann, Travis Sanchez, Kathleen A. Brady, Lyle Ungar, Dolores Albarracín, and ChengXiang Zhai.  
+Morales, Alex, Nupoor Gandhi, Man-pui Sally Chan, Sophie Lohmann, Travis Sanchez, Kathleen A. Brady, Lyle Ungar, Dolores Albarracín, and ChengXiang Zhai.
 2018 IEEE International Conference on Big Data (Big Data), Seattle, WA, USA, 2018, pp. 1073-1078
  \[[paper](https://doi.org/10.1109/BigData.2018.8622347) \| [bibtex](bigdata2019.bib)\]
 
