@@ -15,4 +15,4 @@ At Twitter, I worked in teams solving problems dealing with Misinformation Detec
 
 ### Education
 
-I recently graduated, this past December 2020, with a PhD in [Computer Science](https://cs.illinois.edu/) from the University of Illinois @ Urbana-Champaign. My advisor was Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). I received my bachelor’s and masters degree from the University of California, Santa Barbara in Computer Science, under the supervision of [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/).
+I graduated with a PhD in [Computer Science](https://cs.illinois.edu/) from the University of Illinois @ Urbana-Champaign. My advisor was Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). I received my bachelor’s and masters degree from the University of California, Santa Barbara in Computer Science, under the supervision of [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/).
