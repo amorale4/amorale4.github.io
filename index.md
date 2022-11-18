@@ -4,7 +4,7 @@ title: About
 
 ---
 
-My primary research interest is at the intersection of Text Mining and Natural Language Processing. 
+My research interest is at the intersection of Text Mining and Natural Language Processing. 
 More specifically I've worked on a variety of problems involving Trust/Misinformation, Social Media Analysis, and Humor.  My thesis was on text representation and creating models which simultaneously produce text mining knowledge from social media data, while leveraging different data contexts.
 
 I am also interested in problems involving user behavior in social media. I am also involved in an effort to curb COVID-19 severe misinformation.   
