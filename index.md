@@ -9,7 +9,7 @@ More specifically I've worked on a variety of problems involving Trust/Misinform
 
 I am also interested in problems involving user behavior in social media. I am also involved in an effort to curb COVID-19 severe misinformation.   
 
-At Twitter, I worked in teams solving problems dealing with misinformation detection, the Civic/Information integrity and Content integrity. 
+At Twitter, I worked in teams solving problems dealing with Misinformation Detection, Civic/Information integrity and Content integrity. 
 
 \[ [CV](AlexMorales_CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=k35br0sAAAAJ) \| [GitHub](https://github.com/amorale4)  \|  [amorale4@illinois.edu](mailto:amorale4@illinois.edu) \]
 
