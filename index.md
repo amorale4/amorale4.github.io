@@ -11,7 +11,7 @@ I am also interested in problems involving user behavior in social media. I am a
 
 At Twitter, I worked in teams solving problems dealing with Misinformation Detection, Civic/Information integrity and Content integrity. 
 
-\[ [CV](AlexMorales_CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=k35br0sAAAAJ) \| [GitHub](https://github.com/amorale4)  \|  [amorale4@illinois.edu](mailto:amorale4@illinois.edu) \]
+\[ [CV](AlexMorales_CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=k35br0sAAAAJ) \| [GitHub](https://github.com/amorale4)  \|  [aermslo@outlook.com](mailto:aermslo@outlook.com) \]
 
 ### Education
 
