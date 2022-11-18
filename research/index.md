@@ -8,13 +8,21 @@ title: Research
 Morales, Alex, George Heintz, Jim Roberts and Chengxiang Zhai.
 (Under Review)
 
+* **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**
+Dharawat, Arkin, Ismini Lourentzou, Alex Morales, ChengXiang Zhai
+Proceedings of the International AAAI Conference on Web and Social Media. Vol. 16. 2022.
+\[[paper](https://doi.org/10.1609/icwsm.v16i1.19372) \| [bibtex](aaai2022.bib)\]
+
+
 * **Identifying False Human Papillomavirus (HPV) Vaccine Information and Corresponding Risk Perceptions from Twitter Using Advanced Predictive Models**
 Tomaszewski, Tre, Alex Morales, Ismini Lourentzou, Bing Liu, Alan Schwartz, Rachel Caskey and Jessie Chin.
-(Under Review)
+Journal of medical Internet research 23.9 (2021): e30451.
+\[[HPV misinfo terms figure](amorale4.github.io/hpv_misinfo) \| [paper](https://www.jmir.org/2021/9/e30451/) \| [bibtex](jmir2021.bib)\]
 
-* **Social media postings about HIV and HIV testing and PrEP use among MSM in the United States.**
+* **Estimating the influence of Twitter on pre-exposure prophylaxis use and HIV testing as a function of rates of men who have sex with men in the United States.**
 Chan, Man-Pui Sally, Alex Morales, Maria Zlotorzynski, Patrick Sullivan, Travis Sanchez, ChengXiang Zhai, and Dolores Albarracin.
-To appear in AIDS (2021). 
+AIDS 35 (2021): S101-S109. 
+\[[paper](https://journals.lww.com/aidsonline/Fulltext/2021/05011/Estimating_the_influence_of_Twitter_on.11.aspx) \| [bibtex](aids2021.bib)\]
 
 * **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**
 Dharawat, Arkin, Ismini Lourentzou, Alex Morales, ChengXiang Zhai
